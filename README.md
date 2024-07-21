@@ -1,11 +1,10 @@
-## Hello neighboor...
-<h2 align="left">  I am lycoris</h2>
+## Hello neighboor...😎
+<h2 align="left">I am lycoris𖣂</h2>
 
 ###
 
 <p align="left">Dev java and c#</p>
 
-###
 
 
 <br clear="both">
@@ -15,10 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santssaintly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
-###
-
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -31,16 +26,8 @@
 ###
 
 
-
-###
-
 <div align="center">
   <img height="200" src="https://c.tenor.com/S894mCfpIZ0AAAAd/tenor.gif"  />
 </div>
-
-###
-###
-
-
 
 ###
