@@ -25,9 +25,27 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/317cgd5ng3m6qa73aleccf6aahsu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317cgd5ng3m6qa73aleccf6aahsu&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
+
+###
 
 ###
 
