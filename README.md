@@ -12,28 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santssaintly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-
-
-###
-
-###
-
-<img align="right" height="100" src="![image](https://github.com/user-attachments/assets/8621444a-816e-46a0-be4f-d184da8005db)
-"  />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/317cgd5ng3m6qa73aleccf6aahsu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317cgd5ng3m6qa73aleccf6aahsu&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
@@ -49,7 +28,15 @@
 
 ###
 
+<p align="left">Hello World!!</p>
 
+###
+
+<div align="center">
+  <img height="200" src="https://c.tenor.com/S894mCfpIZ0AAAAd/tenor.gif"  />
+</div>
+
+###
 ###
 
 
