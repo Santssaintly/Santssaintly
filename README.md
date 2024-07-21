@@ -1,9 +1,26 @@
-## Hello neighboor...😎
-<h2 align="left">I am lycoris𖣂</h2>
+## 𝙷𝚎𝚕𝚕𝚘 𝚗𝚎𝚒𝚐𝚑𝚋𝚘𝚘𝚛...😎
+<h2 align="left">𝙸 𝚊𝚖 𝚕𝚢𝚌𝚘𝚛𝚒𝚜𖣂</h2>
 
-<p align="left">Dev java and c#</p>
+<p align="left">𝐃𝐞𝐯 𝐣𝐚𝐯𝐚 𝐚𝐧𝐝 𝐂#</p>
+
+
+
+
+##  &lt;𝚑𝟸 𝚊𝚕𝚒𝚐𝚗="𝚕𝚎𝚏𝚝"&gt;<!--𝚑𝟸-->  &lt;𝚙 𝚊𝚕𝚒𝚐𝚗="𝚕𝚎𝚏𝚝"&gt;𝙳𝚎𝚟 𝚓𝚊𝚟𝚊 𝚊𝚗𝚍 𝚌#<!--𝚙-->
+
+
+
 
 <br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+</div>
+
 
 <div align="center">
   <div style="display: flex; justify-content: flex-start; align-items: center;">
@@ -22,10 +39,4 @@
   </div>
 </div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-</div>
+
