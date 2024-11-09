@@ -1,5 +1,5 @@
 ## 𝙷𝚎𝚕𝚕𝚘 𝚗𝚎𝚒𝚐𝚑𝚋𝚘𝚘𝚛...😎
-<h2 align="left">𝙸 𝚊𝚖 𝚕𝚢𝚌𝚘𝚛𝚒𝚜𖣂</h2>
+<h2 align="left">𝙸 𝚊𝚖 Wendel𖣂</h2>
 
 <p align="left">𝐃𝐞𝐯 JAVA</p>
 <p align="left">ʙᴇꜱᴛ ᴘᴇʀꜱᴏɴ ʏᴏᴜ ᴋɴᴏᴡ</p>
