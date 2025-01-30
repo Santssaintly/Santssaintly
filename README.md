@@ -40,11 +40,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: center;">
-    <img height="200" src="https://c.tenor.com/S894mCfpIZ0AAAAd/tenor.gif" alt="GIF" />
-    <div style="margin-left: 20px; text-align: left;">
-      <p>𝘸𝘩𝘦𝘯 𝘦𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨</p>
-      <p>𝘨𝘰𝘦𝘴 𝘸𝘳𝘰𝘯𝘨</p>
-      <p>𝘫𝘶𝘴𝘵 𝘥𝘢𝘯𝘤𝘦.</p>
+      <p>𝙬𝙝𝙖𝙩𝙚𝙫𝙚𝙧 𝙝𝙖𝙥𝙥𝙚𝙣𝙨, 𝙝𝙖𝙥𝙥𝙚𝙣𝙨</p>
     </div>
   </div>
 </div>
