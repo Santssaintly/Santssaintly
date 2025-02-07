@@ -1,9 +1,8 @@
-## 𝙷𝚎𝚕𝚕𝚘 𝚗𝚎𝚒𝚐𝚑𝚋𝚘𝚘𝚛...😎
+## olá
 
-<h2 align="left">𝙸 𝚊𝚖 Almeida</h2>
+<h2 align="left">𝙸 𝚊𝚖 Wendel</h2>
 
 <p align="left">𝐃𝐞𝐯 JAVA | 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐜𝐨𝐝𝐢𝐧𝐠 𝐚𝐧𝐝 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲</p>
-<p align="left">ʙᴇꜱᴛ ᴘᴇʀꜱᴏɴ ʏᴏᴜ ᴋɴᴏᴡ</p>
 
 <br clear="both">
 
